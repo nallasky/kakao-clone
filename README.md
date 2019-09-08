@@ -1,2 +1,3 @@
 # kakao-clone
- nomad coder
+
+Kakao Deskop App Clone
