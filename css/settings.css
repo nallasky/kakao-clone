@@ -10,7 +10,6 @@
 
 .settings__setting .settings__title {
   font-size: 22px;
-  font-weight: 400;
 }
 
 .settings .settings__setting {
@@ -21,4 +20,20 @@
   margin-bottom: 0;
 }
 
+.settings__setting .settings__new {
+  color: white;
+  background-color: #dc5d46;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-size: 16px;
+  margin-left: 10px;
+}
+
+.settings .new {
+  display: flex;
+}
 
